@@ -45,12 +45,12 @@ button:hover {
 }
 
 .operator {
-    background-color: #f0a030;
+    background-color: #f0a946;
     color: #fff;
 }
 
 .operator:hover {
-    background-color: #d08010;
+    background-color: #fa9201;
 }
 
 #equals {
